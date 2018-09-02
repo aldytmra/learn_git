@@ -1,0 +1,7 @@
+<?php 
+
+cheklogin()
+	echo "mantab";
+}
+
+ ?>
